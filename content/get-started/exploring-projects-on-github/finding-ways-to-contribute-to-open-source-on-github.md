@@ -50,7 +50,7 @@ You can contribute to an open source project by merging a pull request into your
 You can contribute to an open source project by adding additional information to existing issues.
 
 
-## Further reading
+## Further readin
 
 - "[Classifying your repository with topics](/articles/classifying-your-repository-with-topics)"
 - "[About your organization dashboard](/articles/about-your-organization-dashboard)"
